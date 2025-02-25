@@ -82,5 +82,5 @@ This project is open-source and available under the **MIT License**.
 
 ## 📩 Contact
 For any queries or collaboration, reach out to:
-📧 Email: **your_email@gmail.com**
+📧 Email: **adityajaif2004@gmail.com**
 
